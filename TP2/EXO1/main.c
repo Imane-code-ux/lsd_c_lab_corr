@@ -1,3 +1,4 @@
+#include"header.h"
 int main()
 	{
 		t_point *dim = allocateStruct();
